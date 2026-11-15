@@ -1,0 +1,15 @@
+node_modules/
+.openai/
+*.zip
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.vercel/
+vercel-public/
+.env
+.env.*
+!.env.example
